@@ -9,5 +9,7 @@ CORE JAVA
 SPRING :- CORE,BOOT,REST,MVC 
 HTML & CSS
 Java Script
+Es6 & TypeScript
+Angular in Progress
 (MORE TO COME)
 THANK YOU
